@@ -25,5 +25,8 @@
   "jest": {
     "testEnvironment": "node",
     "testTimeout": 20000
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true
   }
 }
